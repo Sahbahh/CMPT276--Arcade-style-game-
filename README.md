@@ -1,3 +1,10 @@
+CMPT 276 project - SFU
+Dylan Kurath: @dkurath
+David Ligocki: @dligocki
+John Mitton: @jmitton
+Sahba Hajihoseini: @sha253
+
+
 1. from the project directory locate the game directory
 2. change directory to project/game/
 3. from the game directory
