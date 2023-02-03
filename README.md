@@ -3,7 +3,9 @@ CMPT 276 project - SFU
 Dylan Kurath: @dkurath
 
 David Ligocki: @dligocki
+
 John Mitton: @jmitton
+
 Sahba Hajihoseini: @sha253
 
 
